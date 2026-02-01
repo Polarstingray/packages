@@ -1,0 +1,7 @@
+{
+    "name": "japanese_word_gen",
+    "version": "1.0.3",
+    "os": "Ubuntu22",
+    "arch": "x86-64",
+    "dependencies": {}
+}
