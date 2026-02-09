@@ -1,0 +1,53 @@
+{
+    "test": {
+        "latest": "1.0.5",
+        "versions": {
+            "1.0.4": {
+                "targets": {
+                    "ubuntu_amd64": {
+                        "url": "https://github.com/Polarstingray/packages/releases/tag/test-v1.0.5",
+                        "signature": "test_v1.0.4_ubuntu_amd64.tar.gz.minisig",
+                        "sha256": "test_v1.0.4_ubuntu_amd64.tar.gz.sha256"
+                    }
+                }
+            },
+            "1.0.5": {
+                "targets": {
+                    "ubuntu_amd64": {
+                        "url": "https://github.com/Polarstingray/packages/releases/tag/test-v1.0.5",
+                        "signature": "test_v1.0.5_ubuntu_amd64.tar.gz.minisig",
+                        "sha256": "test_v1.0.5_ubuntu_amd64.tar.gz.sha256"
+                    }
+                }
+            }
+        }
+    },
+    "affirm": {
+        "latest": "1.0.1",
+        "versions": {
+            "1.0.0": {
+                "targets": {
+                    "ubuntu_amd64": {
+                        "url": "https://github.com/Polarstingray/packages/releases/tag/affirm-v1.0.0",
+                        "signature": "affirm_v1.0.0_ubuntu_amd64.tar.gz.minisig",
+                        "sha256": "affirm_v1.0.0_ubuntu_amd64.tar.gz.sha256"
+                    },
+                    "arch_amd64": {
+                        "url": "https://example.com/package",
+                        "signature": "affirm_v1.0.0_arch_amd64.tar.gz.minisig",
+                        "sha256": "affirm_v1.0.0_arch_amd64.tar.gz.sha256"
+                    }
+                }
+            },
+            "1.0.1": {
+                "targets": {
+                    "arch_amd64": {
+                        "url": "https://github.com/Polarstingray/packages/releases/tag/affirm-v1.0.0",
+                        "signature": "affirm_v1.0.1_arch_amd64.tar.gz.minisig",
+                        "sha256": "affirm_v1.0.1_arch_amd64.tar.gz.sha256"
+                    }
+                }
+            }
+        }
+    }
+}
