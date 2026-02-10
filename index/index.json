@@ -1,6 +1,6 @@
 {
     "test": {
-        "latest": "1.0.6",
+        "latest": "1.0.7",
         "versions": {
             "1.0.4": {
                 "targets": {
@@ -23,9 +23,18 @@
             "1.0.6": {
                 "targets": {
                     "ubuntu_amd64": {
-                        "url": "https://github.com/Polarstingray/packages/releases/tag/test-v1.0.5",
+                        "url": "https://github.com/Polarstingray/packages/releases/tag/test-v1.0.6",
                         "signature": "test_v1.0.6_ubuntu_amd64.tar.gz.minisig",
                         "sha256": "test_v1.0.6_ubuntu_amd64.tar.gz.sha256"
+                    }
+                }
+            },
+            "1.0.7": {
+                "targets": {
+                    "ubuntu_amd64": {
+                        "url": "https://github.com/Polarstingray/packages/releases/tag/test-v1.0.6",
+                        "signature": "test_v1.0.7_ubuntu_amd64.tar.gz.minisig",
+                        "sha256": "test_v1.0.7_ubuntu_amd64.tar.gz.sha256"
                     }
                 }
             }
