@@ -1,6 +1,6 @@
 {
     "test": {
-        "latest": "1.0.8",
+        "latest": "1.2.4",
         "versions": {
             "1.0.4": {
                 "targets": {
@@ -44,6 +44,60 @@
                         "url": "https://github.com/Polarstingray/packages/releases/tag/test-v1.0.8",
                         "signature": "test_v1.0.8_ubuntu_amd64.tar.gz.minisig",
                         "sha256": "test_v1.0.8_ubuntu_amd64.tar.gz.sha256"
+                    }
+                }
+            },
+            "1.1.0": {
+                "targets": {
+                    "ubuntu_amd64": {
+                        "url": "https://github.com/Polarstingray/packages/releases/tag/test-v1.1.0",
+                        "signature": "test_v1.1.0_ubuntu_amd64.tar.gz.minisig",
+                        "sha256": "test_v1.1.0_ubuntu_amd64.tar.gz.sha256"
+                    }
+                }
+            },
+            "1.2.0": {
+                "targets": {
+                    "ubuntu_amd64": {
+                        "url": "https://github.com/Polarstingray/packages/releases/tag/test-v1.2.0",
+                        "signature": "test_v1.2.0_ubuntu_amd64.tar.gz.minisig",
+                        "sha256": "test_v1.2.0_ubuntu_amd64.tar.gz.sha256"
+                    }
+                }
+            },
+            "1.2.1": {
+                "targets": {
+                    "ubuntu_amd64": {
+                        "url": "https://github.com/Polarstingray/packages/releases/tag/test-v1.2.1",
+                        "signature": "test_v1.2.1_ubuntu_amd64.tar.gz.minisig",
+                        "sha256": "test_v1.2.1_ubuntu_amd64.tar.gz.sha256"
+                    }
+                }
+            },
+            "1.2.2": {
+                "targets": {
+                    "ubuntu_amd64": {
+                        "url": "https://github.com/Polarstingray/packages/releases/tag/test-v1.2.2",
+                        "signature": "test_v1.2.2_ubuntu_amd64.tar.gz.minisig",
+                        "sha256": "test_v1.2.2_ubuntu_amd64.tar.gz.sha256"
+                    }
+                }
+            },
+            "1.2.3": {
+                "targets": {
+                    "ubuntu_amd64": {
+                        "url": "https://github.com/Polarstingray/packages/releases/tag/test-v1.2.3",
+                        "signature": "test_v1.2.3_ubuntu_amd64.tar.gz.minisig",
+                        "sha256": "test_v1.2.3_ubuntu_amd64.tar.gz.sha256"
+                    }
+                }
+            },
+            "1.2.4": {
+                "targets": {
+                    "ubuntu_amd64": {
+                        "url": "https://github.com/Polarstingray/packages/releases/tag/test-v1.2.4",
+                        "signature": "test_v1.2.4_ubuntu_amd64.tar.gz.minisig",
+                        "sha256": "test_v1.2.4_ubuntu_amd64.tar.gz.sha256"
                     }
                 }
             }
