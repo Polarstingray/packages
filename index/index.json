@@ -1,78 +1,6 @@
 {
-    "affirm": {
-        "latest": "1.0.1",
-        "versions": {
-            "1.0.0": {
-                "targets": {
-                    "ubuntu_amd64": {
-                        "url": "https://github.com/Polarstingray/packages/releases/tag/affirm-v1.0.0",
-                        "signature": "affirm_v1.0.0_ubuntu_amd64.tar.gz.minisig",
-                        "sha256": "affirm_v1.0.0_ubuntu_amd64.tar.gz.sha256"
-                    },
-                    "arch_amd64": {
-                        "url": "https://example.com/package",
-                        "signature": "affirm_v1.0.0_arch_amd64.tar.gz.minisig",
-                        "sha256": "affirm_v1.0.0_arch_amd64.tar.gz.sha256"
-                    }
-                }
-            },
-            "1.0.1": {
-                "targets": {
-                    "arch_amd64": {
-                        "url": "https://github.com/Polarstingray/packages/releases/tag/affirm-v1.0.1",
-                        "signature": "affirm_v1.0.1_arch_amd64.tar.gz.minisig",
-                        "sha256": "affirm_v1.0.1_arch_amd64.tar.gz.sha256"
-                    },
-                    "ubuntu_amd64": {
-                        "url": "https://github.com/Polarstingray/packages/releases/tag/affirm-v1.0.1",
-                        "signature": "affirm_v1.0.1_ubuntu_amd64.tar.gz.minisig",
-                        "sha256": "affirm_v1.0.1_ubuntu_amd64.tar.gz.sha256"
-                    },
-                    "debian_amd64": {
-                        "url": "https://github.com/Polarstingray/packages/releases/tag/affirm-v1.0.1",
-                        "signature": "affirm_v1.0.1_debian_amd64.tar.gz.minisig",
-                        "sha256": "affirm_v1.0.1_debian_amd64.tar.gz.sha256"
-                    },
-                    "alpine_amd64": {
-                        "url": "https://github.com/Polarstingray/packages/releases/tag/affirm-v1.0.1",
-                        "signature": "affirm_v1.0.1_alpine_amd64.tar.gz.minisig",
-                        "sha256": "affirm_v1.0.1_alpine_amd64.tar.gz.sha256"
-                    }
-                }
-            }
-        }
-    },
-    "repman": {
-        "latest": "1.0.0",
-        "versions": {
-            "1.0.0": {
-                "targets": {
-                    "ubuntu_amd64": {
-                        "url": "https://github.com/Polarstingray/packages/releases/tag/repman-v1.0.0",
-                        "signature": "repman_v1.0.0_ubuntu_amd64.tar.gz.minisig",
-                        "sha256": "repman_v1.0.0_ubuntu_amd64.tar.gz.sha256"
-                    },
-                    "arch_amd64": {
-                        "url": "https://github.com/Polarstingray/packages/releases/tag/repman-v1.0.0",
-                        "signature": "repman_v1.0.0_arch_amd64.tar.gz.minisig",
-                        "sha256": "repman_v1.0.0_arch_amd64.tar.gz.sha256"
-                    },
-                    "debian_amd64": {
-                        "url": "https://github.com/Polarstingray/packages/releases/tag/repman-v1.0.0",
-                        "signature": "repman_v1.0.0_debian_amd64.tar.gz.minisig",
-                        "sha256": "repman_v1.0.0_debian_amd64.tar.gz.sha256"
-                    },
-                    "alpine_amd64": {
-                        "url": "https://github.com/Polarstingray/packages/releases/tag/repman-v1.0.0",
-                        "signature": "repman_v1.0.0_alpine_amd64.tar.gz.minisig",
-                        "sha256": "repman_v1.0.0_alpine_amd64.tar.gz.sha256"
-                    }
-                }
-            }
-        }
-    },
     "test": {
-        "latest": "1.0.1",
+        "latest": "1.0.0",
         "versions": {
             "1.0.0": {
                 "targets": {
@@ -80,30 +8,6 @@
                         "url": "https://github.com/Polarstingray/packages/releases/tag/test-v1.0.0",
                         "signature": "test_v1.0.0_ubuntu_amd64.tar.gz.minisig",
                         "sha256": "test_v1.0.0_ubuntu_amd64.tar.gz.sha256"
-                    },
-                    "arch_amd64": {
-                        "url": "https://github.com/Polarstingray/packages/releases/tag/test-v1.0.0",
-                        "signature": "test_v1.0.0_arch_amd64.tar.gz.minisig",
-                        "sha256": "test_v1.0.0_arch_amd64.tar.gz.sha256"
-                    },
-                    "debian_amd64": {
-                        "url": "https://github.com/Polarstingray/packages/releases/tag/test-v1.0.0",
-                        "signature": "test_v1.0.0_debian_amd64.tar.gz.minisig",
-                        "sha256": "test_v1.0.0_debian_amd64.tar.gz.sha256"
-                    },
-                    "alpine_amd64": {
-                        "url": "https://github.com/Polarstingray/packages/releases/tag/test-v1.0.0",
-                        "signature": "test_v1.0.0_alpine_amd64.tar.gz.minisig",
-                        "sha256": "test_v1.0.0_alpine_amd64.tar.gz.sha256"
-                    }
-                }
-            },
-            "1.0.1": {
-                "targets": {
-                    "ubuntu_amd64": {
-                        "url": "https://github.com/Polarstingray/packages/releases/tag/test-v1.0.1",
-                        "signature": "test_v1.0.1_ubuntu_amd64.tar.gz.minisig",
-                        "sha256": "test_v1.0.1_ubuntu_amd64.tar.gz.sha256"
                     }
                 }
             }
