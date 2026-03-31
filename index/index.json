@@ -264,6 +264,16 @@
                         "url": "https://github.com/Polarstingray/packages/releases/tag/affirm-v1.0.1",
                         "signature": "affirm_v1.0.1_ubuntu_amd64.tar.gz.minisig",
                         "sha256": "affirm_v1.0.1_ubuntu_amd64.tar.gz.sha256"
+                    },
+                    "debian_amd64": {
+                        "url": "https://github.com/Polarstingray/packages/releases/tag/affirm-v1.0.1",
+                        "signature": "affirm_v1.0.1_debian_amd64.tar.gz.minisig",
+                        "sha256": "affirm_v1.0.1_debian_amd64.tar.gz.sha256"
+                    },
+                    "alpine_amd64": {
+                        "url": "https://github.com/Polarstingray/packages/releases/tag/affirm-v1.0.1",
+                        "signature": "affirm_v1.0.1_alpine_amd64.tar.gz.minisig",
+                        "sha256": "affirm_v1.0.1_alpine_amd64.tar.gz.sha256"
                     }
                 }
             }
