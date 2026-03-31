@@ -1,6 +1,6 @@
 {
     "test": {
-        "latest": "1.2.11",
+        "latest": "1.2.14",
         "versions": {
             "1.0.4": {
                 "targets": {
@@ -161,6 +161,76 @@
                         "url": "https://github.com/Polarstingray/packages/releases/tag/test-v1.2.11",
                         "signature": "test_v1.2.11_ubuntu_amd64.tar.gz.minisig",
                         "sha256": "test_v1.2.11_ubuntu_amd64.tar.gz.sha256"
+                    }
+                }
+            },
+            "1.2.12": {
+                "targets": {
+                    "ubuntu_amd64": {
+                        "url": "https://github.com/Polarstingray/packages/releases/tag/test-v1.2.12",
+                        "signature": "test_v1.2.12_ubuntu_amd64.tar.gz.minisig",
+                        "sha256": "test_v1.2.12_ubuntu_amd64.tar.gz.sha256"
+                    }
+                }
+            },
+            "1.2.13": {
+                "targets": {
+                    "ubuntu_amd64": {
+                        "url": "https://github.com/Polarstingray/packages/releases/tag/test-v1.2.13",
+                        "signature": "test_v1.2.13_ubuntu_amd64.tar.gz.minisig",
+                        "sha256": "test_v1.2.13_ubuntu_amd64.tar.gz.sha256"
+                    }
+                }
+            },
+            "1.0.0": {
+                "targets": {
+                    "arch_amd64": {
+                        "url": "https://github.com/Polarstingray/packages/releases/tag/test-v1.0.0",
+                        "signature": "test_v1.0.0_arch_amd64.tar.gz.minisig",
+                        "sha256": "test_v1.0.0_arch_amd64.tar.gz.sha256"
+                    },
+                    "debian_amd64": {
+                        "url": "https://github.com/Polarstingray/packages/releases/tag/test-v1.0.0",
+                        "signature": "test_v1.0.0_debian_amd64.tar.gz.minisig",
+                        "sha256": "test_v1.0.0_debian_amd64.tar.gz.sha256"
+                    },
+                    "alpine_amd64": {
+                        "url": "https://github.com/Polarstingray/packages/releases/tag/test-v1.0.0",
+                        "signature": "test_v1.0.0_alpine_amd64.tar.gz.minisig",
+                        "sha256": "test_v1.0.0_alpine_amd64.tar.gz.sha256"
+                    },
+                    "ubuntu_arm64": {
+                        "url": "https://github.com/Polarstingray/packages/releases/tag/test-v1.0.0",
+                        "signature": "test_v1.0.0_ubuntu_arm64.tar.gz.minisig",
+                        "sha256": "test_v1.0.0_ubuntu_arm64.tar.gz.sha256"
+                    }
+                }
+            },
+            "1.2.14": {
+                "targets": {
+                    "ubuntu_amd64": {
+                        "url": "https://github.com/Polarstingray/packages/releases/tag/test-v1.2.14",
+                        "signature": "test_v1.2.14_ubuntu_amd64.tar.gz.minisig",
+                        "sha256": "test_v1.2.14_ubuntu_amd64.tar.gz.sha256"
+                    }
+                }
+            },
+            "1.0.1": {
+                "targets": {
+                    "arch_amd64": {
+                        "url": "https://github.com/Polarstingray/packages/releases/tag/test-v1.0.1",
+                        "signature": "test_v1.0.1_arch_amd64.tar.gz.minisig",
+                        "sha256": "test_v1.0.1_arch_amd64.tar.gz.sha256"
+                    },
+                    "debian_amd64": {
+                        "url": "https://github.com/Polarstingray/packages/releases/tag/test-v1.0.1",
+                        "signature": "test_v1.0.1_debian_amd64.tar.gz.minisig",
+                        "sha256": "test_v1.0.1_debian_amd64.tar.gz.sha256"
+                    },
+                    "alpine_amd64": {
+                        "url": "https://github.com/Polarstingray/packages/releases/tag/test-v1.0.1",
+                        "signature": "test_v1.0.1_alpine_amd64.tar.gz.minisig",
+                        "sha256": "test_v1.0.1_alpine_amd64.tar.gz.sha256"
                     }
                 }
             }
