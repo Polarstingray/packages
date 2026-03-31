@@ -8,6 +8,16 @@
                         "url": "https://github.com/Polarstingray/packages/releases/tag/test-v1.0.0",
                         "signature": "test_v1.0.0_ubuntu_amd64.tar.gz.minisig",
                         "sha256": "test_v1.0.0_ubuntu_amd64.tar.gz.sha256"
+                    },
+                    "arch_amd64": {
+                        "url": "https://github.com/Polarstingray/packages/releases/tag/test-v1.0.0",
+                        "signature": "test_v1.0.0_arch_amd64.tar.gz.minisig",
+                        "sha256": "test_v1.0.0_arch_amd64.tar.gz.sha256"
+                    },
+                    "debian_amd64": {
+                        "url": "https://github.com/Polarstingray/packages/releases/tag/test-v1.0.0",
+                        "signature": "test_v1.0.0_debian_amd64.tar.gz.minisig",
+                        "sha256": "test_v1.0.0_debian_amd64.tar.gz.sha256"
                     }
                 }
             }
