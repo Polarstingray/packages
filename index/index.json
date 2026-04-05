@@ -94,5 +94,19 @@
                 }
             }
         }
+    },
+    "repman-ci": {
+        "latest": "1.0.0",
+        "versions": {
+            "1.0.0": {
+                "targets": {
+                    "ubuntu_amd64": {
+                        "url": "https://github.com/Polarstingray/packages/releases/tag/repman-ci-v1.0.0",
+                        "signature": "repman-ci_v1.0.0_ubuntu_amd64.tar.gz.minisig",
+                        "sha256": "repman-ci_v1.0.0_ubuntu_amd64.tar.gz.sha256"
+                    }
+                }
+            }
+        }
     }
 }
