@@ -251,6 +251,11 @@
                         "url": "https://github.com/Polarstingray/packages/releases/tag/repman-ci-v1.0.4",
                         "signature": "repman-ci_v1.0.4_ubuntu_amd64.tar.gz.minisig",
                         "sha256": "repman-ci_v1.0.4_ubuntu_amd64.tar.gz.sha256"
+                    },
+                    "arch_amd64": {
+                        "url": "https://github.com/Polarstingray/packages/releases/tag/repman-ci-v1.0.4",
+                        "signature": "repman-ci_v1.0.4_arch_amd64.tar.gz.minisig",
+                        "sha256": "repman-ci_v1.0.4_arch_amd64.tar.gz.sha256"
                     }
                 }
             }
