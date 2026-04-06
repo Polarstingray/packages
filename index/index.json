@@ -67,7 +67,7 @@
         }
     },
     "repman": {
-        "latest": "2.0.1",
+        "latest": "2.0.2",
         "versions": {
             "1.0.0": {
                 "targets": {
@@ -123,6 +123,25 @@
                         "url": "https://github.com/Polarstingray/packages/releases/tag/repman-v2.0.1",
                         "signature": "repman_v2.0.1_debian_amd64.tar.gz.minisig",
                         "sha256": "repman_v2.0.1_debian_amd64.tar.gz.sha256"
+                    }
+                }
+            },
+            "2.0.2": {
+                "targets": {
+                    "ubuntu_amd64": {
+                        "url": "https://github.com/Polarstingray/packages/releases/tag/repman-v2.0.2",
+                        "signature": "repman_v2.0.2_ubuntu_amd64.tar.gz.minisig",
+                        "sha256": "repman_v2.0.2_ubuntu_amd64.tar.gz.sha256"
+                    },
+                    "arch_amd64": {
+                        "url": "https://github.com/Polarstingray/packages/releases/tag/repman-v2.0.2",
+                        "signature": "repman_v2.0.2_arch_amd64.tar.gz.minisig",
+                        "sha256": "repman_v2.0.2_arch_amd64.tar.gz.sha256"
+                    },
+                    "debian_amd64": {
+                        "url": "https://github.com/Polarstingray/packages/releases/tag/repman-v2.0.2",
+                        "signature": "repman_v2.0.2_debian_amd64.tar.gz.minisig",
+                        "sha256": "repman_v2.0.2_debian_amd64.tar.gz.sha256"
                     }
                 }
             }
