@@ -2,16 +2,6 @@
     "claude-orch": {
         "latest": "1.0.0",
         "versions": {
-            "1.0.0": {
-                "targets": {
-                    "ubuntu_amd64": {
-                        "url": "https://github.com/Polarstingray/packages/releases/tag/claude-orch-v1.0.0",
-                        "signature": "claude-orch_v1.0.0_ubuntu_amd64.tar.gz.minisig",
-                        "sha256": "claude-orch_v1.0.0_ubuntu_amd64.tar.gz.sha256"
-                    }
-                },
-                "notes": "Built from git@github.com:Polarstingray/claude-orch.git @ 741dc373f0b3a4a4ee00bdb9cb421964663397b1 (v0.2.0-2-g741dc37)"
-            },
             "0.2.0": {
                 "targets": {
                     "ubuntu_amd64": {
