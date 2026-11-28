@@ -375,7 +375,7 @@
         }
     },
     "reptest": {
-        "latest": "1.0.0",
+        "latest": "1.0.1",
         "versions": {
             "1.0.0": {
                 "targets": {
@@ -383,6 +383,15 @@
                         "url": "https://github.com/Polarstingray/packages/releases/tag/reptest-v1.0.0",
                         "signature": "reptest_v1.0.0_ubuntu_amd64.tar.gz.minisig",
                         "sha256": "reptest_v1.0.0_ubuntu_amd64.tar.gz.sha256"
+                    }
+                }
+            },
+            "1.0.1": {
+                "targets": {
+                    "ubuntu_amd64": {
+                        "url": "https://github.com/Polarstingray/packages/releases/tag/reptest-v1.0.1",
+                        "signature": "reptest_v1.0.1_ubuntu_amd64.tar.gz.minisig",
+                        "sha256": "reptest_v1.0.1_ubuntu_amd64.tar.gz.sha256"
                     }
                 }
             }
